@@ -1,3 +1,4 @@
 class Dog
-  def initializer
+  def initializer(name, breed = "Mutt")
+    @
 end
